@@ -7,8 +7,8 @@
     <title>TeslaFido</title>
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
-<body class="bg-blue-500">
-    <div class="bg-gray-200 min-h-screen pb-24 relative">
+<body class="relative bg-transparent">
+    <div class="bg-gray-200 min-h-screen pb-24 relative -my-8">
         <div class="p-4 prose">
             <div class="mb-4 bg-white text-black p-2 rounded-xl">
                 <div class="text-xl">Color Key</div>
